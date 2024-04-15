@@ -13,7 +13,7 @@ django-rest-api==0.1.5
 django-rest-auth==0.9.5
 djangorestframework==3.10.3
 gunicorn==19.9.0
-idna==2.8
+idna==3.7
 ndg-httpsclient==0.5.1
 oauthlib==3.1.0
 psycopg2==2.8.3
